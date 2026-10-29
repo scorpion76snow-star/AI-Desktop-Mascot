@@ -6,6 +6,8 @@ I'm a first-year computer science student currently studying in the UK, which li
 Because of the heavy academic workload, some AI was used in the presentation.
 Some features of this model are not yet complete. I will optimize and add these features later, depending on when the learning will be easier.
 
+# Please note that the weight file trained by me is included in the Releases folder; please download it yourself.
+
 # Introduction
 YunPet is a Windows desktop pet and local-priority personal assistant application.
 The white square pet is always on your desktop; clicking it displays your recent to-do list. It includes a built-in calendar, to-do list, notepad, chat, email drafts, and voice reminders. It supports switching between Chinese and English, using local models or OpenAI, and allows you to change skins and voices. The application name is also customizable.
