@@ -1,0 +1,9 @@
+* text=auto
+
+# Model weights are public, but GitHub needs Git LFS for files over 100 MB.
+models/**/*.pt filter=lfs diff=lfs merge=lfs -text
+models/**/*.bin filter=lfs diff=lfs merge=lfs -text
+models/**/*.onnx filter=lfs diff=lfs merge=lfs -text
+
+# Third-party voice models are intentionally not committed.
+voices/**/*.onnx filter=lfs diff=lfs merge=lfs -text

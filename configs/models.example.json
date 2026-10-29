@@ -1,0 +1,17 @@
+{
+  "active": "local",
+  "profiles": [
+    {
+      "id": "local",
+      "type": "local_gated",
+      "model": "models/local/sft_best.pt",
+      "tokenizer": "models/local/tokenizer.json"
+    },
+    {
+      "id": "openai",
+      "type": "openai_compatible",
+      "base_url": "https://api.openai.com/v1",
+      "model": "gpt-4o-mini"
+    }
+  ]
+}

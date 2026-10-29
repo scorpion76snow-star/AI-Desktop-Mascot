@@ -1,0 +1,13 @@
+{
+  "app_name": "YunPet",
+  "language": "en",
+  "skin": "default",
+  "model_profile": "local",
+  "openai_base_url": "https://api.openai.com/v1",
+  "openai_model": "gpt-4o-mini",
+  "openai_key_ref": "YunPet/openai",
+  "voice_enabled": false,
+  "voice_chat_enabled": false,
+  "voice_mail_enabled": false,
+  "voice_pet_enabled": false
+}

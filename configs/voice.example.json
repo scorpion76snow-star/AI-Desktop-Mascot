@@ -1,0 +1,12 @@
+{
+  "voice_enabled": false,
+  "voice_chat_enabled": false,
+  "voice_mail_enabled": false,
+  "voice_pet_enabled": false,
+  "voice_zh_model": "voice_zh_huayan.onnx",
+  "voice_zh_config": "voice_zh_huayan.json",
+  "voice_en_model": "voice_en_alba.onnx",
+  "voice_en_config": "voice_en_alba.json",
+  "voice_zh_length_scale": 1.1,
+  "voice_en_length_scale": 1.0
+}
